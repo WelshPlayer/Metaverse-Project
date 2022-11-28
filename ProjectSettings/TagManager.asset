@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Right Hand
+  - Left Hand
+  - bullet
+  - floor
+  - bottle
   layers:
   - Default
   - TransparentFX
